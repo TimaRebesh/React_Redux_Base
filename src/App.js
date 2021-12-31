@@ -1,5 +1,6 @@
 import './App.css';
 import Likes from './components/Likes';
+import Title from './components/Title';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
             <img src="./sea.jpg" alt="surfing"/>
             <Likes />
           </div>
+          <Title />
         </div>
       </div>
     </div>
