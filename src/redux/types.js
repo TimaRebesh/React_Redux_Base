@@ -1,3 +1,6 @@
 export const INCREMENT = 'INCREMENT';
 export const DECREMENT = 'DECREMENT';
 export const CHANGE_TITLE = 'CHANGE_TITLE';
+export const NEW_COMMENT = 'NEW_COMMENT';
+export const UPDATE_COMMENT = 'UPDATE_COMMENT';
+export const DELETE_COMMENT = 'DELETE_COMMENT';
